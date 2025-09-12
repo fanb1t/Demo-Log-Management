@@ -1,8 +1,12 @@
-# Datapipeline
+# high level diagram
 
-![Data pipeline log](/picture/datapipeline-log.png)
+![high level diagram](/picture/design-highlevel.svg)
 
-## ลำดับการไหลของข้อมูลแบบทีละขั้น 
+# c4 diagram 
 
-เริ่มจากsourceที่รับข้อมูลแต่ละแบบยมา
+![c4 diagram](/picture/design-c4.svg)
+
+# data pipeline
+
+![data pipeline](/picture/design-datapipeline.svg)
 
